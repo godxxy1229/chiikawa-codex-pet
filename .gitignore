@@ -1,0 +1,11 @@
+node_modules/
+build/
+.scratch/
+*.tmp
+reference/
+publication-private/
+revisions/
+qa/ref-compare/
+qa/ref-skeleton.png
+qa/hands-zoom-*.png
+*.codex-pet.zip

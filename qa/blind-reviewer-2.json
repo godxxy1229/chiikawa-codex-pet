@@ -1,0 +1,16 @@
+{"pairs": [
+  {"pair": "horizontal-1", "A": "screen-left", "B": "screen-right", "reason": "A: mouth/eye midpoint left of body center, left blush small and squeezed at left edge, right eye+blush full; B mirrored (small blush at right edge)"},
+  {"pair": "horizontal-2", "A": "screen-left", "B": "screen-right", "reason": "A: whole face cluster shifted to left side, far eye compressed at left silhouette edge; B: cluster on right with compressed eye at right edge"},
+  {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A: features hug left contour, left eye nearly at edge; B: features hug right contour"},
+  {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "A: strong turn, mouth and far eye at left edge, only one blush visible on right of face; B mirrored to right edge"},
+  {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "A: face cluster on left, far eye clipped at left edge; B: cluster on right, far eye at right edge"},
+  {"pair": "horizontal-6", "A": "screen-right", "B": "screen-left", "reason": "A: face cluster on right half, far eye/blush at right contour; B: cluster on left half, far eye/blush at left contour"},
+  {"pair": "horizontal-7", "A": "screen-left", "B": "screen-right", "reason": "A: slight turn, mouth left of body center, left blush narrow at left edge, right blush full; B mirrored"},
+  {"pair": "vertical-1", "A": "down", "B": "up", "reason": "A: eyes/blush/mouth sit low on face; B: same features clearly higher toward top of head"},
+  {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A: face features lower (mouth near mid-body); B: features raised higher on head"},
+  {"pair": "vertical-3", "A": "up", "B": "down", "reason": "A: features higher on right-turned face; B: same features shifted lower"},
+  {"pair": "vertical-4", "A": "down", "B": "up", "reason": "A: blush and mouth noticeably lower than in B; B features raised"},
+  {"pair": "vertical-5", "A": "up", "B": "down", "reason": "A: eyes/blush/mouth higher on head; B: features lower"},
+  {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A: left-turned face features higher; B: same features lower"},
+  {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A: left-turned face features lower; B: features raised higher"}
+], "notes": "Horizontal facing judged by face-cluster shift relative to body center and which side's eye/blush is foreshortened at the silhouette edge. Horizontal pairs 1 and 7 are subtle (small turn) and less certain; vertical pairs judged by relative height of eyes/blush/mouth between A and B."}

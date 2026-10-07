@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "canonical_rgba_equal": true,
+  "rebuild_without_reference_images": true,
+  "sharp_version": "0.35.5",
+  "canonical_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "independent_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "encoded_bytes_equal": true
+}

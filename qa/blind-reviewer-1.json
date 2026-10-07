@@ -1,0 +1,16 @@
+{"pairs": [
+  {"pair": "horizontal-1", "A": "screen-left", "B": "screen-right", "reason": "A: face features shifted left of body center, left eye/blush smaller (compressed far side); B mirrored, features shifted right"},
+  {"pair": "horizontal-2", "A": "screen-left", "B": "screen-right", "reason": "A: eyes, mouth and blush crowded toward left outline; B: crowded toward right outline"},
+  {"pair": "horizontal-3", "A": "screen-left", "B": "screen-right", "reason": "A: profile-like face on left edge, far eye at outline; B: face on right edge"},
+  {"pair": "horizontal-4", "A": "screen-left", "B": "screen-right", "reason": "A: face pressed against left outline, far eye hidden at edge; B: same on right edge"},
+  {"pair": "horizontal-5", "A": "screen-left", "B": "screen-right", "reason": "A: features on left side with far eye at left outline; B: features on right side"},
+  {"pair": "horizontal-6", "A": "screen-right", "B": "screen-left", "reason": "A: features clustered toward right outline, far blush at right edge; B: clustered toward left outline"},
+  {"pair": "horizontal-7", "A": "screen-left", "B": "screen-right", "reason": "A: mild turn, features offset left of body center with smaller left blush; B mirrored to the right"},
+  {"pair": "vertical-1", "A": "down", "B": "up", "reason": "A: eyes/blush/mouth sit low on the face; B: features noticeably higher"},
+  {"pair": "vertical-2", "A": "down", "B": "up", "reason": "A: features low (eyes near mid-body); B: features raised toward top of head"},
+  {"pair": "vertical-3", "A": "up", "B": "down", "reason": "A: eyes and mouth higher on head; B: same turned face sits lower"},
+  {"pair": "vertical-4", "A": "down", "B": "up", "reason": "A: eye, blush and mouth lower; B: features shifted upward by roughly 10px"},
+  {"pair": "vertical-5", "A": "up", "B": "down", "reason": "A: features high near top of head; B: features lower on body"},
+  {"pair": "vertical-6", "A": "up", "B": "down", "reason": "A: features higher; B: eyes, blush and mouth placed lower"},
+  {"pair": "vertical-7", "A": "down", "B": "up", "reason": "A: features lower on face; B: features raised by roughly 20px"}
+], "notes": "Horizontal judged by which side the facial features crowd toward (far-side eye/blush compressed at outline). Vertical judged by vertical position of eyes/blush/mouth relative to head top within each pair. Horizontal-1/7 and vertical-4 are the subtlest offsets."}

@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "canonical_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "public_sha256": "a53bb204564cba26cd1dbcb196b54b6213c73fcd68d93b3d3e6360798587fc80",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "animation_cells": 73,
+  "neutral_cell": [
+    0,
+    6
+  ],
+  "neutral_source": [
+    0,
+    0
+  ],
+  "lossless_rgba_match": true,
+  "animation_pixels_preserved": true,
+  "look_pixels_preserved": true,
+  "canonical_rgba_sha256": "4d3b9dcf6a1f895a5490c62d12c79f4526bc98e6fa42bfcd98c97ff02a3bbe8b",
+  "public_rgba_sha256": "0600d1047476d04003a6fdbc5a563e7d3dc9e0574ad5c1e2161487fe8046df5e"
+}

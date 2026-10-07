@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "atlas": "C:\\Project\\codex-pets\\chiikawa-svg\\final\\spritesheet.webp",
+  "encoded_bytes": 244420,
+  "sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "jump": {
+    "idle_baseline": 198,
+    "jump_baselines": [
+      198,
+      162,
+      151,
+      162,
+      198
+    ],
+    "airborne_lift_pixels": 47,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      96.0,
+      98.0,
+      99.5,
+      100.5,
+      101.0,
+      100.5,
+      99.5,
+      98.0,
+      96.0,
+      94.0,
+      92.5,
+      91.5,
+      91.0,
+      91.5,
+      92.5,
+      94.0
+    ],
+    "look_widths": [
+      136,
+      136,
+      137,
+      137,
+      136,
+      137,
+      137,
+      136,
+      136,
+      136,
+      137,
+      137,
+      136,
+      137,
+      137,
+      136
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.0073529411764706
+  },
+  "errors": [],
+  "warnings": [
+    "000 has transparent interior hole rows (y=55, y=56, y=57, y=58, +13 more)",
+    "022.5 has transparent interior hole rows (y=55, y=56, y=57, y=58, +12 more)",
+    "045 has transparent interior hole rows (y=56, y=57, y=58, y=59, +10 more)",
+    "067.5 has transparent interior hole rows (y=57, y=58, y=59, y=60, +9 more)",
+    "090 has transparent interior hole rows (y=57, y=58, y=59, y=60, +8 more)",
+    "112.5 has transparent interior hole rows (y=57, y=58, y=59, y=60, +9 more)",
+    "135 has transparent interior hole rows (y=56, y=57, y=58, y=59, +10 more)",
+    "157.5 has transparent interior hole rows (y=55, y=56, y=57, y=58, +12 more)",
+    "180 has transparent interior hole rows (y=55, y=56, y=57, y=58, +12 more)",
+    "202.5 has transparent interior hole rows (y=55, y=56, y=57, y=58, +12 more)",
+    "225 has transparent interior hole rows (y=56, y=57, y=58, y=59, +10 more)",
+    "247.5 has transparent interior hole rows (y=57, y=58, y=59, y=60, +8 more)",
+    "270 has transparent interior hole rows (y=57, y=58, y=59, y=60, +8 more)",
+    "292.5 has transparent interior hole rows (y=57, y=58, y=59, y=60, +8 more)",
+    "315 has transparent interior hole rows (y=56, y=57, y=58, y=59, +10 more)",
+    "337.5 has transparent interior hole rows (y=55, y=56, y=57, y=58, +12 more)"
+  ]
+}

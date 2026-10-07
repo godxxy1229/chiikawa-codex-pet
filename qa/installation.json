@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "install_dir": "C:\\Users\\godxxy/.codex/pets/chiikawa",
+  "final_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "installed_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "manifest": {
+    "id": "chiikawa",
+    "displayName": "Chiikawa",
+    "description": "작고 동그란 치이카와가 토벌창을 들고 작업을 함께하는 SVG 기반 펫.",
+    "spritesheetPath": "spritesheet.webp",
+    "spriteVersionNumber": 2
+  }
+}

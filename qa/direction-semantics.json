@@ -1,0 +1,118 @@
+{
+  "review_basis": "Final encoded atlas at native and enlarged sizes (qa/direction-qa.png, previews/look-loop.gif). Three isolated blind reviewers classified unlabeled A/B pairs; majority verdicts match the hidden answer key (all pairs).",
+  "alpha_review": "Transparent rows reported by look-continuity are the open background between the two ears (y≈55-70) and between the two legs; both connect to the outside background. The white body has no interior holes (qa/frame-audit.json).",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +0.00px horizontally (squeezed to 1.00 width) and the face moves -13.86px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +0.00 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +23.41px horizontally (squeezed to 0.92 width) and the face moves -13.18px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +1.34 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +40.48px horizontally (squeezed to 0.74 width) and the face moves -10.79px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +2.47 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +49.41px horizontally (squeezed to 0.57 width) and the face moves -6.24px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +3.23 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +51.96px horizontally (squeezed to 0.50 width) and the face moves -0.00px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +3.50 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +49.41px horizontally (squeezed to 0.57 width) and the face moves +6.24px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +3.23 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +40.48px horizontally (squeezed to 0.74 width) and the face moves +10.79px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +2.47 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +23.41px horizontally (squeezed to 0.92 width) and the face moves +13.18px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +1.34 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-right, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves +0.00px horizontally (squeezed to 1.00 width) and the face moves +13.86px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts +0.00 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -23.41px horizontally (squeezed to 0.92 width) and the face moves +13.18px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -1.34 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -40.48px horizontally (squeezed to 0.74 width) and the face moves +10.79px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -2.47 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -49.41px horizontally (squeezed to 0.57 width) and the face moves +6.24px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -3.23 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports down-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -51.96px horizontally (squeezed to 0.50 width) and the face moves +0.00px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -3.50 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -49.41px horizontally (squeezed to 0.57 width) and the face moves -6.24px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -3.23 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -40.48px horizontally (squeezed to 0.74 width) and the face moves -10.79px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -2.47 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "The head turns like a sphere: the mouth band moves -23.41px horizontally (squeezed to 0.92 width) and the face moves -13.18px vertically; the far-side eye and cheek compress toward or past the head outline while feet stay fixed. The body tilts -1.34 degrees and the ears lean away from the gaze. The face-to-head-outline offset visibly supports up-left, consistent with the independent blind axis judgments (qa/blind-*.json)."
+    }
+  ]
+}

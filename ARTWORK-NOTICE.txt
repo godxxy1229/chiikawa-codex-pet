@@ -1,0 +1,10 @@
+Chiikawa is a character created by Nagano (ナガノ).
+"Chiikawa" and the character artwork are the property of their respective rights holders.
+
+This is an unofficial fan project, with no affiliation with or endorsement from
+Nagano or the rights holders. It is shared as a Codex companion.
+
+The reference images were supplied for this project and are not included in the
+public repository or installation package. The SVG rig in source/ and src/ is a
+vector redraw made by measuring those references; it does not
+claim ownership of the character or grant any license to the underlying artwork.

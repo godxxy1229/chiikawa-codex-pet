@@ -1,0 +1,18 @@
+{
+  "source": "C:\\Project\\codex-pets\\chiikawa-svg\\final\\spritesheet.webp",
+  "previews": [
+    "previews/states/idle.gif",
+    "previews/states/running-right.gif",
+    "previews/states/running-left.gif",
+    "previews/states/waving.gif",
+    "previews/states/jumping.gif",
+    "previews/states/failed.gif",
+    "previews/states/waiting.gif",
+    "previews/states/running.gif",
+    "previews/states/review.gif",
+    "previews/all-states.gif",
+    "previews/idle-jump-idle.gif",
+    "previews/look-loop.gif",
+    "previews/key-frames.png"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+ "ok": true,
+ "final_atlas_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+ "reviewed_atlas_sha256": "c80eb2d9c40d0fde8512877b78e4cb53de68f69b4d9d3f6cb3829546399acd71",
+ "reviewed_sheet": "qa/blind-sheet.png",
+ "note": "2026-10-07: the open eye's lower highlight was thinned (idle, running-left/right and look rows). A new blind review was run on this atlas: three isolated reviewers saw only the unlabeled A/B sheet parts; each matched the hidden answer key on 14/14 pairs and the majority matched on all 14 (qa/blind-validation.json). Earlier equivalence notes are superseded. | 2026-10-07 later: only the failed (5) and running (7) rows changed (tears, mouth, blush offsets); look rows 9-10 are pixel-identical (max diff 0) to the reviewed atlas c80eb2d9c40d, so the blind review still applies."
+}
