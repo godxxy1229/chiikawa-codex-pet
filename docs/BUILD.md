@@ -35,6 +35,6 @@ These optional validation dependencies are separate from building or installing 
 manifest and the pixel match to the retained blind-review sheet. It writes `qa/release-verification.json`.
 
 The 16 look directions retain the existing three-reviewer blind review when their pixels are unchanged.
-Changes to these directions require a new review as described in [AGENTS.md](../AGENTS.md).
+Changes to these directions require a new independent blind review.
 
 See [design notes (Korean)](BUILD.ko.md) and the [artwork notice](../ARTWORK-NOTICE.txt).
