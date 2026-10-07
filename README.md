@@ -15,7 +15,7 @@ npx codex-pets add chiikawa-svg
 Or install with curl:
 
 ```bash
-curl -L "https://codex-pets.net/api/pets/chiikawa-svg/download" \
+curl -L "https://codex-pets.net/api/pets/chiikawa-svg/download?v=1791375690150" \
   -o "/tmp/chiikawa-svg.codex-pet.zip" &&
 mkdir -p "$HOME/.codex/pets/chiikawa-svg" &&
 unzip -o "/tmp/chiikawa-svg.codex-pet.zip" \

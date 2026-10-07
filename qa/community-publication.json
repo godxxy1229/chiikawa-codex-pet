@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "id": "chiikawa-svg",
+  "page": "https://codex-pets.net/#/pets/chiikawa-svg",
+  "github": "https://github.com/godxxy1229/chiikawa-codex-pet",
+  "github_artifact_commit": "cf9ef9db91ae5a94bfb4f6336ec22cb53b07234d",
+  "download_url": "https://codex-pets.net/api/pets/chiikawa-svg/download?v=1791375690150",
+  "spritesheet_url": "https://codex-pets.net/assets/pets/v/1791375690150/chiikawa-svg/spritesheet.webp",
+  "canonical_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "public_sha256": "a53bb204564cba26cd1dbcb196b54b6213c73fcd68d93b3d3e6360798587fc80",
+  "zip_sha256": "e118514833c68404006db6b059ce17c62474e5f0041e5810f340e123d8f9433a",
+  "remote_spritesheet_bytes_equal": true,
+  "github_package_bytes_equal": true,
+  "github_canonical_png_webp_and_gif_bytes_equal": true,
+  "public_zip_integrity_passed": true,
+  "public_zip_sheet_bytes_equal": true,
+  "public_manifest_equal": true,
+  "english_install_description_verified": true,
+  "name_kind_tags_owner_verified": true,
+  "native_sheet_and_manifest_unchanged": true,
+  "upload_method": "Official website upload UI with existing authenticated session",
+  "temporary_api_key_created": false,
+  "community_assets": {
+    "poster": {
+      "size": [
+        192,
+        208
+      ],
+      "bytes": 5634,
+      "sha256": "e74c91bbf4c93cc1945e005599b61dd7186b82eac216f70f6788d80ad714e776"
+    },
+    "preview": {
+      "size": [
+        7008,
+        104
+      ],
+      "bytes": 108472,
+      "sha256": "9d194bce4344f27f76a8ec89bda1ee6ea0a7309ab5446eb44e9fa17a0d17b877"
+    },
+    "share": {
+      "size": [
+        1200,
+        630
+      ],
+      "bytes": 93629,
+      "sha256": "b6c24a71b7af6943d5f5d3f3d4155040fb448cfae0b0ac76f4715b1f39930d9f"
+    }
+  }
+}

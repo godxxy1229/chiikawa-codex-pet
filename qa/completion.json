@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "completed_utc": "2026-10-07T12:24:32.286673+00:00",
+  "github": "https://github.com/godxxy1229/chiikawa-codex-pet",
+  "community": "https://codex-pets.net/#/pets/chiikawa-svg",
+  "install_command": "npx codex-pets add chiikawa-svg",
+  "description": "An unofficial Chiikawa companion for Codex. https://github.com/godxxy1229/chiikawa-codex-pet",
+  "checks": {
+    "original_73_animation_cells_preserved": true,
+    "native_sheet_manifest_and_selection_not_modified": true,
+    "independent_build_without_private_references": true,
+    "structure_frame_and_quality_gates_passed": true,
+    "all_16_directions_match_existing_three_reviewer_blind_review": true,
+    "github_and_remote_package_match": true,
+    "downloaded_zip_and_english_manifest_match": true,
+    "official_installer_isolated_test_passed": true,
+    "reference_images_and_credentials_excluded": true
+  },
+  "temporary_api_key_created": false,
+  "canonical_sha256": "18a7bdd4a1f67edb915221fbc2fbd27b33abd0ee94b14082f2516df6e791e337",
+  "public_sha256": "a53bb204564cba26cd1dbcb196b54b6213c73fcd68d93b3d3e6360798587fc80",
+  "evidence": [
+    "release-verification.json",
+    "reproducibility.json",
+    "community-publication.json",
+    "installation-audit.json",
+    "pet-quality.json",
+    "frame-audit.json",
+    "blind-validation.json"
+  ]
+}
