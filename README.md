@@ -22,6 +22,6 @@ unzip -o "/tmp/chiikawa-svg.codex-pet.zip" \
   -d "$HOME/.codex/pets/chiikawa-svg"
 ```
 
-[Build instructions](docs/BUILD.md) · [Design notes (Korean)](docs/BUILD.ko.md)
+[Build instructions](docs/BUILD.md)
 
 Chiikawa was created by Nagano (ナガノ). Unofficial fan project; see the [artwork notice](ARTWORK-NOTICE.txt).
